@@ -77,7 +77,7 @@ For users who prefer automation with safety checks:
 ## Document Summaries
 
 | Document | Length | Best For | Key Info |
-|----------|--------|----------|----------|
+|:---------|:-------|:---------|:---------|
 | **QUICK_MERGE_REFERENCE.md** | Short | Experienced users | Commands only |
 | **MERGE_GUIDE.md** | Long | All users | Complete guide |
 | **BRANCH_VISUALIZATION.md** | Medium | Visual learners | Diagrams & concepts |
